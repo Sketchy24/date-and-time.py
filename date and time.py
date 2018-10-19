@@ -1,3 +1,5 @@
+#this progrma show us the current date time
+
 from datetime import datetime
 
 now = datetime.now()
